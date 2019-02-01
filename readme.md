@@ -2,7 +2,7 @@
 
 This project uses the ArcGIS JavaScript API 4.x to display the content of a popup on a separately created div. The application calls the 'watch' method on the MapView popup's 'visible' property. Once the popup is visible, it waits for the content to become defined in the 'viewModel' property. Then it sets the innerHTML of the separate div to the viewModel's content.
 
-<img src="displayPopup.jpg" width="350"/>
+<img src="displayPopup.jpg" width="600"/>
 
 ## Getting Started
 
